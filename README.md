@@ -1,52 +1,46 @@
 <h1 align="center">Hi 👋, I'm Kosmas Kaltapanidhs</h1>
-<h3 align="center">A passionate Front-End Web Developer from Greece</h3>
+<h3 align="center">A passionate Front-End & WordPress Developer from Greece</h3>
 
-- 🌱 I’m currently learning **React**
+🎓 I hold a degree in **Applied Informatics** from the **University of Macedonia (UoM)** and have 4 years of professional experience in delivering high-quality, responsive websites and web applications.
 
-- 👨‍💻 You can find my projects on [webcrafter.gr](https://webcrafter.gr)
-
-- 💬 Ask me about **collaboration opportunities** or freelance work
-
-- 📫 How to reach me: **kkaltapanidhs@gmail.com**
+💻 I specialize in **custom WordPress development**, including themes, plugins, WooCommerce integration, multilingual setups, and performance-optimized solutions.  
+⚛️ I also build **React.js** front-ends with clean, scalable architecture and a focus on user experience.  
+🔧 I enjoy working with modern tools, clean code, and best practices.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/kosmaskaltapanidis" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kosmas Kaltapanidis" height="30" width="40" />
-  </a>
-</p>
+## 🔧 Services I Offer
+
+- Responsive website development  
+- Custom WordPress theme and plugin development  
+- WooCommerce integration & customization  
+- Multilingual website setup (e.g. WPML)  
+- CMS customization and headless CMS integration  
+- Performance optimization & technical SEO improvements  
+- Ongoing maintenance, backups, and security updates  
+- Custom web application development (React, PHP, APIs)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**  
+React.js · Vanilla JS · HTML5 · CSS3 · PHP · Tailwind CSS · jQuery  
+
+**CMS & Platforms:**  
+WordPress · OpenCart · Elementor  
+
+**DevOps & Tools:**  
+Git · GitHub · cPanel · Plesk · MySQL · phpMyAdmin · Linux  
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: **kkaltapanidhs@gmail.com**  
+- 🌐 Website: [webcrafter.gr](https://webcrafter.gr)  
+- 💼 LinkedIn: [linkedin.com/in/kosmaskaltapanidis](https://linkedin.com/in/kosmaskaltapanidis)
+
+---
+
+_Thanks for visiting my profile! Let's connect and build something great together._
