@@ -3,8 +3,10 @@
 
 🎓 I hold a degree in **Applied Informatics** from the **University of Macedonia (UoM)** and have 4 years of professional experience in delivering high-quality, responsive websites and web applications.
 
-💻 I specialize in **custom WordPress development**, including themes, plugins, WooCommerce integration, multilingual setups, and performance-optimized solutions.  
+💻 I specialize in **custom WordPress development**, including themes, plugins, WooCommerce integration, multilingual setups, and performance-optimized solutions. 
+
 ⚛️ I also build **React.js** front-ends with clean, scalable architecture and a focus on user experience.  
+
 🔧 I enjoy working with modern tools, clean code, and best practices.
 
 ---
