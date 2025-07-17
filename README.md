@@ -26,7 +26,7 @@
 React.js · Vanilla JS · HTML5 · CSS3 · PHP · Tailwind CSS · jQuery  
 
 **CMS & Platforms:**  
-WordPress · OpenCart · Elementor  
+WordPress · OpenCart  
 
 **Tools:**  
 Git · GitHub · cPanel · Plesk · MySQL · phpMyAdmin · Linux  
