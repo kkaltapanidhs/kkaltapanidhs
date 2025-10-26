@@ -23,13 +23,13 @@
 ## 🧰 Tech Stack
 
 **Languages & Frameworks:**  
-React.js · Vanilla JS · HTML5 · CSS3 · PHP · Tailwind CSS · jQuery  
+React.js · TypeScript · Vanilla JS · jQuery · PHP · Tailwind CSS  
 
 **CMS & Platforms:**  
 WordPress · OpenCart  
 
 **Tools:**  
-Git · GitHub · cPanel · Plesk · MySQL · phpMyAdmin · Linux  
+Git · cPanel · Plesk · MySQL · phpMyAdmin · Docker  
 
 ---
 
