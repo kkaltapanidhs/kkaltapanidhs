@@ -1,35 +1,28 @@
-<h1 align="center">Hi 👋, I'm Kosmas Kaltapanidhs</h1>
-<h3 align="center">A passionate Front-End & WordPress Developer from Greece</h3>
+<h1 align="center">Hi 👋, I'm Kosmas Kaltapanidis</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-💻 I specialize in **custom WordPress development**, including themes, plugins, WooCommerce integration, multilingual setups, and performance-optimized solutions. 
-
-⚛️ I also build **React.js** front-ends with clean, scalable architecture and a focus on user experience.  
+Web developer with 5+ years of experience building websites and applications. Focused on React and the modern JavaScript ecosystem, with a strong background in custom WordPress development.
 
 ---
 
 ## 🔧 Services I Offer
 
-- Responsive website development  
-- Custom WordPress theme and plugin development  
-- WooCommerce integration & customization  
-- Multilingual website setup (e.g. WPML)  
-- CMS customization and headless CMS integration  
-- Performance optimization & technical SEO improvements  
-- Ongoing maintenance, backups, and security updates  
-- Custom web application development (React, PHP, APIs)
+- Website Development
+- Custom web application development
+- CMS Customization 
+- Headless CMS Integration
+- Performance optimization
+- Maintenance and security updates  
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages & Frameworks:**  
-React.js · TypeScript · Vanilla JS · jQuery · PHP · Tailwind CSS  
+React.js · TypeScript · Vanilla JS · Node JS · PHP
 
 **CMS & Platforms:**  
 WordPress · OpenCart  
-
-**Tools:**  
-Git · cPanel · Plesk · MySQL · phpMyAdmin · Docker  
 
 ---
 
@@ -38,7 +31,3 @@ Git · cPanel · Plesk · MySQL · phpMyAdmin · Docker
 - 📧 Email: **kkaltapanidhs@gmail.com**  
 - 🌐 Website: [webcrafter.gr](https://webcrafter.gr)  
 - 💼 LinkedIn: [linkedin.com/in/kosmaskaltapanidis](https://linkedin.com/in/kosmaskaltapanidis)
-
----
-
-_Thanks for visiting my profile! Let's connect and build something great together._
