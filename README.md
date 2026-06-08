@@ -1,33 +1,34 @@
-<h1 align="center">Hi 👋, I'm Kosmas Kaltapanidis</h1>
+<h1 align="center">Hi, I'm Kosmas Kaltapanidis</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 Web developer with 5+ years of experience building websites and applications. Focused on React and the modern JavaScript ecosystem, with a strong background in custom WordPress development.
 
 ---
 
-## 🔧 Services I Offer
+## Services I Offer
 
-- Website Development
+- Website development
 - Custom web application development
-- CMS Customization 
-- Headless CMS Integration
+- CMS customization
+- Headless CMS integration
 - Performance optimization
-- Maintenance and security updates  
+- Maintenance and security updates
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-**Languages & Frameworks:**  
+**Languages & Frameworks**  
 React.js · TypeScript · Vanilla JS · Node JS · PHP
 
-**CMS & Platforms:**  
-WordPress · OpenCart  
+**CMS & Platforms**  
+WordPress · OpenCart
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- 📧 Email: **kkaltapanidhs@gmail.com**  
-- 🌐 Website: [webcrafter.gr](https://webcrafter.gr)  
-- 💼 LinkedIn: [linkedin.com/in/kosmaskaltapanidis](https://linkedin.com/in/kosmaskaltapanidis)
+**Email:** kkaltapanidhs@gmail.com  
+**Website:** [webcrafter.gr](https://webcrafter.gr)  
+**LinkedIn:** [linkedin.com/in/kosmaskaltapanidis](https://linkedin.com/in/kosmaskaltapanidis)
+```
