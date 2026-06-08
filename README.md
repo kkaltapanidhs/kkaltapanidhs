@@ -1,7 +1,7 @@
-<h1>Hi, I'm Kosmas Kaltapanidis</h1>
-<h3>Full Stack Web Developer</h3>
+# Hi, I'm Kosmas Kaltapanidis
+**Full Stack Web Developer**
 
-Web developer with 5+ years of experience building websites and applications. Focused on React and the modern JavaScript ecosystem, with a strong background in custom WordPress development.
+Web developer with 5+ years of experience building websites and applications. Focused on React and the modern JavaScript ecosystem, with a strong background in custom WordPress development. I’m eager to keep learning, evolve my skills and grow professionally.
 
 ## Services I Offer
 
