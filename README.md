@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kosmas Kaltapanidis</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1>Hi, I'm Kosmas Kaltapanidis</h1>
+<h3>Full Stack Web Developer</h3>
 
 Web developer with 5+ years of experience building websites and applications. Focused on React and the modern JavaScript ecosystem, with a strong background in custom WordPress development.
 
@@ -31,4 +31,3 @@ WordPress · OpenCart
 **Email:** kkaltapanidhs@gmail.com  
 **Website:** [webcrafter.gr](https://webcrafter.gr)  
 **LinkedIn:** [linkedin.com/in/kosmaskaltapanidis](https://linkedin.com/in/kosmaskaltapanidis)
-```
