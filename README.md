@@ -14,11 +14,17 @@ Web developer with 5+ years of experience building websites and applications. Fo
 
 ## Tech Stack
 
-**Languages & Frameworks**  
-React.js · TypeScript · Vanilla JS · Node JS · PHP
+**Frontend**  
+React.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+
+**Backend**  
+Node.js · PHP
 
 **CMS & Platforms**  
 WordPress · OpenCart
+
+**Tools**  
+Git · Docker
 
 ## Get in Touch
 
