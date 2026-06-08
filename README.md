@@ -3,8 +3,6 @@
 
 Web developer with 5+ years of experience building websites and applications. Focused on React and the modern JavaScript ecosystem, with a strong background in custom WordPress development.
 
----
-
 ## Services I Offer
 
 - Website development
@@ -14,8 +12,6 @@ Web developer with 5+ years of experience building websites and applications. Fo
 - Performance optimization
 - Maintenance and security updates
 
----
-
 ## Tech Stack
 
 **Languages & Frameworks**  
@@ -23,8 +19,6 @@ React.js · TypeScript · Vanilla JS · Node JS · PHP
 
 **CMS & Platforms**  
 WordPress · OpenCart
-
----
 
 ## Get in Touch
 
